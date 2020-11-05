@@ -1,7 +1,7 @@
 # SimpleProgramsApplication
 
-This illustrastrate c# simple projects with Unit tests for practice purposes
-Whatch explanation here https://www.youtube.com/channel/UCILi8I9yCGATX2udnLVgQ_g/playlists
+This illustrastrates c# simple projects with Unit tests for practice purposes
+Watch explanation here https://www.youtube.com/channel/UCILi8I9yCGATX2udnLVgQ_g/playlists
 1. EvenNumberEvaluator
 2. Binary Triangle
 3. Palindrome
