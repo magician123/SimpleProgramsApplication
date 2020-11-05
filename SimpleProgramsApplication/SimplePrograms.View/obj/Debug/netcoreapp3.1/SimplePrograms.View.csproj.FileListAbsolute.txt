@@ -1,0 +1,16 @@
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.View.exe
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.View.deps.json
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.View.runtimeconfig.json
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.View.runtimeconfig.dev.json
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.View.dll
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.View.pdb
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.Logic.dll
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\bin\Debug\netcoreapp3.1\SimplePrograms.Logic.pdb
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.csprojAssemblyReference.cache
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.AssemblyInfoInputs.cache
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.AssemblyInfo.cs
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.csproj.CoreCompileInputs.cache
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.csproj.CopyComplete
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.dll
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.pdb
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.View\obj\Debug\netcoreapp3.1\SimplePrograms.View.genruntimeconfig.cache

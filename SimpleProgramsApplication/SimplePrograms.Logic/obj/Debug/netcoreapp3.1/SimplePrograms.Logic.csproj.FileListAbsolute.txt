@@ -1,0 +1,9 @@
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\bin\Debug\netcoreapp3.1\SimplePrograms.Logic.deps.json
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\bin\Debug\netcoreapp3.1\SimplePrograms.Logic.dll
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\bin\Debug\netcoreapp3.1\SimplePrograms.Logic.pdb
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\obj\Debug\netcoreapp3.1\SimplePrograms.Logic.AssemblyInfoInputs.cache
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\obj\Debug\netcoreapp3.1\SimplePrograms.Logic.AssemblyInfo.cs
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\obj\Debug\netcoreapp3.1\SimplePrograms.Logic.csproj.CoreCompileInputs.cache
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\obj\Debug\netcoreapp3.1\SimplePrograms.Logic.dll
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\obj\Debug\netcoreapp3.1\SimplePrograms.Logic.pdb
+C:\Programming\YouTube\SimpleProgramsApplication\SimplePrograms.Logic\obj\Debug\netcoreapp3.1\SimplePrograms.Logic.csprojAssemblyReference.cache
